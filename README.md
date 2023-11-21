@@ -13,4 +13,5 @@ Jogo de jokenpo criado pelo professor Felipe Silva Aguiar (o famoso Felipão da 
 - JavaScript para a lógica de programação e interatividade.
 - Arquivos de áudio para a sonorização das teclas.
 
-# Divirta-se jogando o Yu-Gi-Oh | Jo-ken-po Edition com o link abaixo!!! 🎮
+# Divirta-se jogando o Yu-Gi-Oh | Jo-ken-po Edition!!! 🎮
+- Basta baixar o repositório e executar o arquivo index.html :D
